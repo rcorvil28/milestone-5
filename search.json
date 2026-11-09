@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Why LeBron James is the Greatest of All Time",
     "section": "",
-    "text": "LeBron James stands alone in NBA history as the only player in the 40,000+ points, 11,000+ rebounds, and 11,000+ assists club. Comparing him against a field of 400 NBA players shows how he combines unmatched scoring longevity with elite playmaking."
+    "text": "1. Every Top-400 NBA Player in History: Scoring vs. Playmaking\nLeBron James is the only player in NBA history with 40,000+ Points, 12,000+ Rebounds, and 12,000+ Assists. Every dot below is one of the real Top 400 scorers in NBA history — hover over any of the 400 dots to inspect that player’s name, career totals, and per-game averages, or zoom in to see all player labels!\n\n\n\n\n\n\n\n\n\n2. Why LeBron Is Undeniably #1: Total All-Time Rank Across Every Skill\nMost legends dominate one or two categories (scorers score, centers rebound, point guards pass). Out of 5,157 players in NBA history, LeBron ranks in the Top 6 all-time in Points (#1), Minutes (#1), Games (#1), Field Goals (#1), Assists (#4), Steals (#6), and 3-Pointers (#6), while also sitting #23 all-time in Rebounds."
   },
   {
     "objectID": "about.html",
@@ -16,8 +16,8 @@
   {
     "objectID": "analysis.html",
     "href": "analysis.html",
-    "title": "Why LeBron James is the Greatest of All Time",
+    "title": "Detailed 400-Player Breakdown",
     "section": "",
-    "text": "LeBron James stands alone in NBA history as the only player in the 40,000+ points, 11,000+ rebounds, and 11,000+ assists club. Comparing him against a field of 400 NBA players shows how he combines unmatched scoring longevity with elite playmaking."
+    "text": "Longevity vs. All-Around Impact Across All 400 Players\nHere we plot Games Played on the x-axis against Total All-Around Production (\\(\\text{Points} + 2\\times\\text{Assists} + 1.5\\times\\text{Rebounds} + 3\\times\\text{Steals} + 3\\times\\text{Blocks}\\)) on the y-axis, colored by True Shooting Efficiency (TS%) with every single player’s name attached to their dot."
   }
 ]
